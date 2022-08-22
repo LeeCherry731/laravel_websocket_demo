@@ -9,12 +9,14 @@
     "license": "MIT",
     "require": {
         "php": "^7.2.5|^8.0",
+        "almasaeed2010/adminlte": "~3.2",
         "beyondcode/laravel-websockets": "^1.13",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^6.3.1|^7.0.1",
         "laravel/framework": "^7.29",
         "laravel/tinker": "^2.5",
+        "livewire/livewire": "^2.10",
         "pusher/pusher-php-server": "~3.0"
     },
     "require-dev": {
